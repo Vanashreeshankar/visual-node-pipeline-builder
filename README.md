@@ -4,8 +4,6 @@ A visual workflow builder built using **React + ReactFlow** that allows users to
 
 The application provides a **drag-and-drop interface** for building workflows and validating the structure of the pipeline.
 
-This project was completed as part of the **VectorShift technical assessment**.
-
 ---
 
 # Overview
